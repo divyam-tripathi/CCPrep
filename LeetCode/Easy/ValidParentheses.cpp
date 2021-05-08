@@ -8,7 +8,11 @@ determine if the input string is valid.
 An input string is valid if:
 
 Open brackets must be closed by the same type of brackets.
-Open brackets must be closed in the correct order. */
+Open brackets must be closed in the correct order. 
+
+Accepted | Runtime : 0ms | Memory 6.4 MB
+
+*/
 
 #include<iostream>
 #include<stack>
